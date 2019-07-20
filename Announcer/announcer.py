@@ -7,7 +7,7 @@ def message(title, message):
   message = message[:200]
   notification.notify (
     title = title,
-    message = message,
+    message = message + '....',
   )
 
 class CodechefContestAnnouncer:
