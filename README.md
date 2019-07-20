@@ -10,3 +10,8 @@ For ex : If the contest link is "https://www.codechef.com/COOK108A".
 then variable contest_link must assigned with this link and must look like this
 
 contest_link = "https://www.codechef.com/COOK108A"
+
+
+
+
+Note : For other operating system there is a only need of change in message function because notify-send command will not work in windows.
