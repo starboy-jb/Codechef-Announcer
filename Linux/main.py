@@ -28,6 +28,6 @@ class CodechefContestAnnouncer:
 
 if __name__ == '__main__':
 	#replace the contest link
-	contest_link = "https://www.codechef.com/JULY19B";
+	contest_link = "https://www.codechef.com/JULY19B"
 	Contest = CodechefContestAnnouncer(contest_link)
 	Contest.run()
