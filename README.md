@@ -17,7 +17,7 @@ contest_link = "https://www.codechef.com/COOK108A"
 Note : For other operating system there is a only need of change in message function because notify-send command will not work in windows.
 
 # Most Important
-Before You Run this python program.
+Before You run this python program.
 You must need install some python module and library and these are done by following command.
 
 pip install beautifulsoup4
