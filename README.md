@@ -17,6 +17,8 @@ You must need install some python module and library and these are done by follo
 
 pip install beautifulsoup4
 
+pip install plyer
+
 pip install requests
 
 pip install lxml
