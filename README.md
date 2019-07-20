@@ -21,5 +21,7 @@ Before You Run this python program.
 You must need install some python module and library and these are done by following command.
 
 pip install beautifulsoup4
+
 pip install requests
+
 pip install lxml
