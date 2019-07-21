@@ -1,6 +1,8 @@
 from plyer import notification
 import requests
 from bs4 import BeautifulSoup
+from sys import argv
+
 
 
 def message(title, message):
@@ -31,7 +33,12 @@ class CodechefContestAnnouncer:
 				pass
 
 if __name__ == '__main__':
-	#replace the contest link
-	contest_link = "https://www.codechef.com/JULY19A"
+
+
+	#Get contest code from command line
+	if len(argv) > 1: # If there is  argument
+		contest_link = "https://www.codechef.com/" + argv[1]
+	else:
+		contest_link = "https://www.codechef.com/" + input("Enter contest code : ")
 	Contest = CodechefContestAnnouncer(contest_link)
 	Contest.run()
