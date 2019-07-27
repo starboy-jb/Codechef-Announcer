@@ -11,6 +11,10 @@ for ex :
 
 `python announcer.py COOK108A`
 
+or if you use python3 then
+
+`python3 announcer.py COOK108A`
+
 
 
 # Most Important
