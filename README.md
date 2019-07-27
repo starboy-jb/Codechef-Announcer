@@ -6,9 +6,9 @@ You just need to replace contest link and run this python program on the backgro
 Note: Program must run continuously until you want notification.
 
 For ex : If the contest link is "https://www.codechef.com/COOK108A".
-then variable contest_link must assigned with this link and must look like this
+then type 
+`python announcer.py COOK108A`
 
-contest_link = "https://www.codechef.com/COOK108A"
 
 
 # Most Important
