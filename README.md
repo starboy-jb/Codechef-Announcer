@@ -9,11 +9,11 @@ for run this code you need to give this command from your terminal
 
 for ex : 
 
-`python announcer.py COOK108A`
+`python announcer.py LTIME74A`
 
 or if you use python3 then
 
-`python3 announcer.py COOK108A`
+`python3 announcer.py LTIME74A`
 
 
 
