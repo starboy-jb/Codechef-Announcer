@@ -21,21 +21,21 @@ or if you use python3 then
 Before You run this python program.
 You must need install some python module and library and these are done by following command.
 
-`pip install beautifulsoup4
+`pip install beautifulsoup4`
 
-pip install plyer
+`pip install plyer`
 
-pip install requests
+`pip install requests`
 
-pip install lxml`
+`pip install lxml`
 
 or in case of you are a python3 user
 
-`pip3 install beautifulsoup4
+`pip3 install beautifulsoup4`
 
-pip3 install plyer
+`pip3 install plyer`
 
-pip3 install requests
+`pip3 install requests`
 
-pip3 install lxml`
+`pip3 install lxml`
 
