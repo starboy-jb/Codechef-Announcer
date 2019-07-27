@@ -5,37 +5,37 @@ You just need to replace contest link and run this python program on the backgro
 
 Note: Program must run continuously until you want notification.
 
-for run this code you need to give this command from your terminal
+for run this code you need to give this command from your terminal.
 
-for ex : 
+# How to use it?
 
-`python announcer.py LTIME74A`
+- Clone the Repository
 
-or if you use python3 then
+```sh
+git clone git@github.com:starboy-jb/Codechef-Announcer.git
+```
 
-`python3 announcer.py LTIME74A`
+- Navigate to Codechef-Announcer directory
 
+```sh
+cd Codechef-Announcer
+```
 
+- Install requirements
 
-# Most Important
-Before You run this python program.
-You must need install some python module and library and these are done by following command.
+```sh
+pip3 install -r requirements.txt
+```
 
-`pip install beautifulsoup4`
+- Naviagte to Annnouncer directory
 
-`pip install plyer`
+```sh
+cd Announcer
+```
 
-`pip install requests`
+- Run the file announcer.py contest code
 
-`pip install lxml`
-
-or in case of you are a python3 user
-
-`pip3 install beautifulsoup4`
-
-`pip3 install plyer`
-
-`pip3 install requests`
-
-`pip3 install lxml`
+```sh
+python3 announcer.py COOK108A
+```
 
