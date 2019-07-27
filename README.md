@@ -5,8 +5,8 @@ You just need to replace contest link and run this python program on the backgro
 
 Note: Program must run continuously until you want notification.
 
-For ex : If the contest link is "https://www.codechef.com/COOK108A".
-then type 
+for run this code you need to give this command from your terminal
+for ex : 
 `python announcer.py COOK108A`
 
 
